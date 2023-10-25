@@ -14,3 +14,5 @@ Challenge 1: Data Privacy: Private companies may not disclose financial data rea
 Challenge 2: Data Consistency: The format and quality of data may vary across sources. Ensuring consistency in data processing is crucial.
 
 Challenge 3: Timeliness: Keeping the data current is a challenge, as company valuations and funding rounds change frequently.
+[Unicorn Companies Analysis.txt](https://github.com/Toyosi-Obada/Exploratory-Data-Analysis-of-Unicorn-Companies-Around-the-World/files/13164255/Unicorn.Companies.Analysis.txt)
+[EXPLORATORY DATA ANALYST OF UNICORN COMPANIES.pptx](https://github.com/Toyosi-Obada/Exploratory-Data-Analysis-of-Unicorn-Companies-Around-the-World/files/13164311/EXPLORATORY.DATA.ANALYST.OF.UNICORN.COMPANIES.pptx)
